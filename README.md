@@ -1,2 +1,2 @@
 # Simon-Says
-This is a game developed by me
+This is a game developed by me.
