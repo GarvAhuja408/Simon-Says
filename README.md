@@ -6,3 +6,6 @@ Harkirat Singh
 
 # Student
 Garv Ahuja
+
+# Friend
+Diljit
